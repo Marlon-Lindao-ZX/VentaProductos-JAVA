@@ -1,0 +1,4 @@
+Portishead,18.53,6,true,Trip Hop,M
+Radiohead,21.2,20,true,Rock,M
+Hierro 3,30.2,5,true,Kim Ki Duk,C
+Mario Bross,35.11,0,false,Plataformas,V
